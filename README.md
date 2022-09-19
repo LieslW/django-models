@@ -1,6 +1,6 @@
 # LAB - Class 27  
 
-Project: Django Snacks (pt. 2)  
+Project: Django Models 
 Author: Liesl White  
 
 ## Links and Resources
